@@ -32,9 +32,3 @@ This repository contains a simple implementation of the classic Snake Game devel
 
 - Java Development Kit (JDK) 8 or higher.
 - A Java IDE such as IntelliJ IDEA, Eclipse, or any text editor of your choice.
-
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/snake-game.git
